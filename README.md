@@ -48,6 +48,10 @@ http://soulwire.github.io/sketch.js/
 
 http://soulwire.github.io/Plasmatic-Isosurface/
 
+#### Sound viz
+
+https://github.com/drojdjou/squareroot.js/tree/gl/demo/soundviz
+
 #### Beerbot & Beer Bubbles
 
 http://beerbot.sys.vendhq.com
