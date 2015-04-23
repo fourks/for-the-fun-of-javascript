@@ -3,21 +3,21 @@
 
 ### Demos
 
-#### Audio Analysis – Web Audio Data
+#### Web Audio Data
 
-http://www.airtightinteractive.com/demos/js/uberviz/audioanalysis/
+<a href="http://www.airtightinteractive.com/demos/js/uberviz/audioanalysis/" target="_blank">Audio Analysis</a>
 
-#### Word Problems - Web Audio + Web GL
+#### Web Audio + Web GL
 
-http://www.airtightinteractive.com/demos/js/uberviz/wordproblems/
+<a href="http://www.airtightinteractive.com/demos/js/uberviz/wordproblems/" target="_blank">Word Problems</a>
 
-#### Soundviz - Web GL + Web Audio + Leap Motion
+#### Web GL + Web Audio + Leap Motion
 
-http://all.toolprototype.com/soundviz/
+<a href="http://all.toolprototype.com/soundviz/" target="_blank">Soundviz</a>
 
-#### Getmosh
+#### Web GL
 
-http://getmosh.io
+<a href="http://getmosh.io" target="_blank">Getmosh.io</a>
 
 ________
 
