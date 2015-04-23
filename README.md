@@ -48,6 +48,11 @@ http://soulwire.github.io/sketch.js/
 
 http://soulwire.github.io/Plasmatic-Isosurface/
 
+#### Beerbot & Beer Bubbles
+
+http://beerbot.sys.vendhq.com
+https://github.com/sehsarah/beer-bubbles
+
 
 ## More coming soon
 
