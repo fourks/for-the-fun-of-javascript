@@ -3,23 +3,13 @@
 
 ### Demos
 
-#### Web Audio Data
-
 <a href="http://www.airtightinteractive.com/demos/js/uberviz/audioanalysis/" target="_blank">Audio Analysis</a>
-
-#### Web Audio + Web GL
 
 <a href="http://www.airtightinteractive.com/demos/js/uberviz/wordproblems/" target="_blank">Word Problems</a>
 
-#### Web GL + Web Audio + Leap Motion
-
 <a href="http://all.toolprototype.com/soundviz/" target="_blank">Soundviz</a>
 
-#### Web GL
-
 <a href="http://getmosh.io" target="_blank">Getmosh.io</a>
-
-#### Beerbot
 
 <a href="http://beerbot.sys.vendhq.com/" target="_blank">Beerbot</a>
 
