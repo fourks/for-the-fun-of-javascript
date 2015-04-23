@@ -19,6 +19,10 @@
 
 <a href="http://getmosh.io" target="_blank">Getmosh.io</a>
 
+#### Beerbot
+
+<a href="http://beerbot.sys.vendhq.com/" target="_blank">Beerbot</a>
+
 ________
 
 ### Resources
