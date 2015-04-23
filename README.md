@@ -40,7 +40,17 @@ https://github.com/sehsarah/blingbot
 
 https://github.com/sehsarah/boogie-bot
 
-####
+#### Sketch.js
+
+http://soulwire.github.io/sketch.js/
+
+@soulwire
+
+http://soulwire.github.io/Plasmatic-Isosurface/
+
+
+## More coming soon
+
 
 ### Images
 
