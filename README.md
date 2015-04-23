@@ -1,48 +1,48 @@
 ![for the fun of javascript](https://cloud.githubusercontent.com/assets/1064684/7306797/1cfb06a0-ea5c-11e4-9305-f9b4732bd20f.png)
 
 
-## Demos
+### Demos
 
-## Audio Analysis – Web Audio Data
+#### Audio Analysis – Web Audio Data
 
 http://www.airtightinteractive.com/demos/js/uberviz/audioanalysis/
 
-## Word Problems - Web Audio + Web GL
+#### Word Problems - Web Audio + Web GL
 
 http://www.airtightinteractive.com/demos/js/uberviz/wordproblems/
 
-## Soundviz - Web GL + Web Audio + Leap Motion
+#### Soundviz - Web GL + Web Audio + Leap Motion
 
 http://all.toolprototype.com/soundviz/
 
-## Getmosh
+#### Getmosh
 
 http://getmosh.io
 
 ________
 
-## Resources
+### Resources
 
-### Shubot
+#### Shubot
 
 https://github.com/sehsarah/shubot
 
 
-### Cylon.js
+#### Cylon.js
 
 http://cylonjs.com
 
-### Blingbot
+#### Blingbot
 
 https://github.com/sehsarah/blingbot
 
-### Boogie Bot
+#### Boogie Bot
 
 https://github.com/sehsarah/boogie-bot
 
-### 
+####
 
-## Images
+### Images
 
 http://designspiration.net/image/17747831912944/
 
