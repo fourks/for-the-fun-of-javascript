@@ -3,50 +3,50 @@
 
 ### Presentation Demos
 
-<a href="http://www.airtightinteractive.com/demos/js/uberviz/audioanalysis/" target="_blank">Audio Analysis</a>
+1. <a href="http://www.airtightinteractive.com/demos/js/uberviz/audioanalysis/" target="_blank">Audio Analysis</a>
 
-<a href="http://www.airtightinteractive.com/demos/js/uberviz/wordproblems/" target="_blank">Word Problems</a>
+2. <a href="http://www.airtightinteractive.com/demos/js/uberviz/wordproblems/" target="_blank">Word Problems</a>
 
-<a href="http://all.toolprototype.com/soundviz/" target="_blank">Soundviz</a>
+3. <a href="http://all.toolprototype.com/soundviz/" target="_blank">Soundviz</a>
 
-<a href="http://getmosh.io" target="_blank">Getmosh.io</a>
+4. <a href="http://getmosh.io" target="_blank">Getmosh.io</a>
 
-<a href="http://beerbot.sys.vendhq.com/" target="_blank">Beerbot</a>
+5. <a href="http://beerbot.sys.vendhq.com/" target="_blank">Beerbot</a>
 
 ________
 
 ### Resources
 
-#### My Nodebot Projects
+#### My Nodebots
 
-<a href="https://github.com/sehsarah/shubot" target="_blank">Shubot</a>
+- <a href="https://github.com/sehsarah/shubot" target="_blank">Shubot</a>
 
-<a href="https://github.com/sehsarah/blingbot" target="_blank">Blingbot</a>
+- <a href="https://github.com/sehsarah/blingbot" target="_blank">Blingbot</a>
 
-<a href="https://github.com/sehsarah/boogie-bot" target="_blank">BoogieBot</a>
+- <a href="https://github.com/sehsarah/boogie-bot" target="_blank">BoogieBot</a>
 
 #### Nodebots
 
-<a href="http://cylonjs.com" target="_blank">Cylonjs.com</a>
+- <a href="http://cylonjs.com" target="_blank">Cylonjs.com</a>
 
 #### Canvas
 
-<a href="http://soulwire.github.io/sketch.js/" target="_blank">Sketch.js</a> from @soulwire
+- <a href="http://soulwire.github.io/sketch.js/" target="_blank">Sketch.js</a> from @soulwire
 
 #### Web GL
 
-<a href="http://soulwire.github.io/Plasmatic-Isosurface/" target="_blank">Plasmatic Isosurface</a> from @soulwire
-<a href="http://getmosh.io" target="_blank">Getmosh.io</a> from @felixturner
+- <a href="http://soulwire.github.io/Plasmatic-Isosurface/" target="_blank">Plasmatic Isosurface</a> from @soulwire
+- <a href="http://getmosh.io" target="_blank">Getmosh.io</a> from @felixturner
 
 #### Web Audio + Web GL
 
-<a href="http://all.toolprototype.com/soundviz/" target="_blank">Soundviz</a> from @bartekd
-<a href="http://www.airtightinteractive.com/demos/js/uberviz/wordproblems/" target="_blank">Word Problems</a> from @felixturner
+- <a href="http://all.toolprototype.com/soundviz/" target="_blank">Soundviz</a> from @bartekd
+- <a href="http://www.airtightinteractive.com/demos/js/uberviz/wordproblems/" target="_blank">Word Problems</a> from @felixturner
 
 #### VendHQ Beerbot
 
-<a href="http://beerbot.sys.vendhq.com" target="_blank">Beerbot</a>
-<a href="https://github.com/sehsarah/beer-bubbles" target="_blank">Beer Bubbles</a>
+- <a href="http://beerbot.sys.vendhq.com" target="_blank">Beerbot</a>
+- <a href="https://github.com/sehsarah/beer-bubbles" target="_blank">Beer Bubbles</a>
 
 
 ## More coming soon
