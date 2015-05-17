@@ -27,7 +27,8 @@ ________
 
 #### Nodebots
 
-- <a href="http://cylonjs.com" target="_blank">Cylonjs.com</a>
+- <a href="http://cylonjs.com" target="_blank">cylon.js</a>
+- <a href="https://github.com/rwaldron/johnny-five" target="_blank">johnny-five.js</a>
 
 #### Canvas
 
