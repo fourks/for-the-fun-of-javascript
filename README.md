@@ -1,5 +1,6 @@
 ![for the fun of javascript](https://cloud.githubusercontent.com/assets/1064684/7306797/1cfb06a0-ea5c-11e4-9305-f9b4732bd20f.png)
 
+These demos and resources were part of a presentation titled "For the Fun of JavaScript" at [Codemania 2015](http://codemania.co.nz).
 
 ### Presentation Demos
 
@@ -57,3 +58,6 @@ ________
 
 FTFOJS image collection can be found on <a href="http://designspiration.net/sehsarah/ftfojs/" target="_blank">Designpiration</a>
 
+### Extra
+
+Along with [@chrisgreeff](https://github.com/chrisgreeff) I presented an Introduction to JavaScript masterclass at Summer of Tech May 2015 that included much of these examples as well. The slide deck and more related resources are here https://github.com/chrisgreeff/summer-of-tech-js-2015
