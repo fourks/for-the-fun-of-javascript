@@ -2,6 +2,12 @@
 
 These demos and resources were part of a presentation titled "For the Fun of JavaScript" at [Codemania 2015](http://codemania.co.nz).
 
+Watch <a href="https://www.youtube.com/watch?v=GDh0htr3PVA">here</a>
+
+<a href="https://www.youtube.com/watch?v=GDh0htr3PVA">
+  <img width="858" alt="screenshot 2016-04-25 22 51 10" src="https://cloud.githubusercontent.com/assets/1064684/14781730/60a9b9de-0b38-11e6-9f18-c109449644bd.png">
+</a>
+
 ### Presentation Demos
 
 1. <a href="http://www.airtightinteractive.com/demos/js/uberviz/audioanalysis/" target="_blank">Audio Analysis</a>
@@ -51,7 +57,7 @@ ________
 - <a href="https://github.com/sehsarah/beer-bubbles" target="_blank">Beer Bubbles</a>
 
 
-## More coming soon
+### more to come...
 
 
 ### Images
